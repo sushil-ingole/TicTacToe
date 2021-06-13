@@ -87,9 +87,23 @@
     place-items: center;
 }
 
+#single {
+    display: inline-block;
+}
+#multi {
+    display: inline-block;
+}
+
 .result {
     font-size: 30px;
     margin-bottom: 15px
+}
+
+#restart {
+    display: inline-block;
+}
+#mute {
+    display: inline-block;
 }
 
 @media (max-width: 420px) {
